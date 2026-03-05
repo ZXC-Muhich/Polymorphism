@@ -1,3 +1,4 @@
-﻿static class Program
+﻿static class Program 
 {
+    
 }
